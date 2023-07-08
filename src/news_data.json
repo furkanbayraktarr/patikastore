@@ -1,0 +1,78 @@
+[   {
+  "id": 0,     
+  "title": "Xiaomi Mi True Wireless Earbuds",
+  "imgURL":
+  "https://cdn.cimri.io/image/320x320/xiaomi-mi-true-wireless-earbuds-airdots-basic-2-siyah-bluetooth-kulaklik_442882894.jpg", 
+  "price": "₺134,77", 
+  "inStock": true   },
+    {
+  "id": 1, 
+  "title": "General Mobile GM 20",     
+  "imgURL":
+  "https://cdn03.ciceksepeti.com/cicek/kc6979101-1/XL/general-mobile-gm20-64gb-jade-green-cep-telefonu-kc6979101-1-db509ad41fef47688217e17226b824c1.jpg", 
+  "price": "₺1.810,21", 
+  "inStock": true   },
+    {
+  "id": 2, 
+  "title": "Philips 58PUS8505/62 The One",     
+  "imgURL":
+  "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxyOlJq2mkfe6hkqEyEZxZY37MQdO0Im7ndg&usqp=CAU", 
+  "price": "₺6.992,25", 
+  "inStock": "STOKTA YOK"   },
+    {
+  "id": 3, 
+  "title": "LG 49UM7100PLB Ultra HD 4K",     
+  "imgURL":
+  "https://www.enucuzunadresi.com/productimages/99851/big/lg-49um7100plb-4k-ultra-hd-49-124-ekran-uydu-alicili-smart-led-televizyon-z.jpg", 
+  "price": "₺4.614,38", 
+  "inStock": true   },
+    {
+  "id": 4,     
+  "title": "Samsung Galaxy M31 SM-M315F",
+  "imgURL":
+  "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCIzeH2_HOjgHJ7b2PHncDc253E4RDYcFaZg&usqp=CAU", 
+  "price": "₺2.995,80", 
+  "inStock": true   },
+    {
+  "id": 5, 
+  "title": "Apple AirPods Series 2",     
+  "imgURL":
+  "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv_b55CP3ss2i18H-249ojUhCtZ1gEbxgVfA&usqp=CAU", 
+  "price": "₺1.299,00", 
+  "inStock": true  },
+    {
+  "id": 6,     
+  "title": "Lenovo Tab M10 Plus",
+  "imgURL":
+  "https://productimages.hepsiburada.net/s/361/375/110000375355146.jpg",
+  "price": "₺2.496,50", 
+  "inStock": "STOKTA YOK"  },
+    {
+  "id": 7, 
+  "title": "Xiaomi Redmi 20000 Mah",     
+  "imgURL":
+  "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEwiX5axdn9c4Po2aTER6on9V7hts5gy-6sQ&usqp=CAU", 
+  "price": "₺134,70", 
+  "inStock": "STOKTA YOK"   },
+    {
+  "id": 8, 
+  "title": "Xiaomi Mijia Smart Home 360",     
+  "imgURL":
+  "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5Ypthamk-cP_-562pb0h23F9xDEC-hniZmg&usqp=CAU", 
+  "price": "₺269,73", 
+  "inStock": true   },
+    {
+  "id": 9, 
+  "title": "Xiaomi Mi Box S 4K Ultra HD",    
+  "imgURL":
+  "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR53l3EjkXMvQHceGhdmLgf4PCN845Rl9AI7w&usqp=CAU", 
+  "price": "₺478,53", 
+  "inStock": true   },
+    {
+  "id": 10, 
+  "title": "Haylou Solar LS-5 Smartwatch",    
+  "imgURL":
+  "https://www.chip.com.tr/images/inceleme/2021/08/02/2021080207091320785.jpg",  
+  "price": "₺296,00", 
+  "inStock": true   }
+  ]
